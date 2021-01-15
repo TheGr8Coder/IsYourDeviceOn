@@ -1,1 +1,1 @@
-# https://thegr8coder.github.com/IsYourDeviceOn
+# https://thegr8coder.github.io/IsYourDeviceOn
